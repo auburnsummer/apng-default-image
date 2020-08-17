@@ -1,0 +1,16 @@
+{
+  "name": "apng-default-image",
+  "version": "0.0.1",
+  "description": "get default image of an apng",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.12.3"
+  }
+}
